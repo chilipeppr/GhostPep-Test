@@ -7,5 +7,6 @@ document.getElementById("app").innerHTML = `
   info about Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
-this is inside the jscript
+this is inside the jscript xx
+
 `;
